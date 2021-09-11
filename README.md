@@ -2,7 +2,7 @@
 **Alura Log - Dashboard criado com Power BI:** Projeto realizado na primira semana do challenge de BI organizado pela Alura Cursos Online de Tecnologia. O inúito do projeto foi realizar a criação de um Dashboard para tomada de decição utilizando base da dados da empresa ipotética "Alura Logística".
 
 **Tabela - Estoque**  
-|aaa|sss|zzz||sss|aaa|ddd
+| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
 - ID Produto  
 - Data atualização  
 - Quantidade
