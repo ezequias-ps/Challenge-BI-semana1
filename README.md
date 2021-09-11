@@ -1,12 +1,12 @@
 # Challenge-BI-semana1
 Alura Log - Dashboard criado com Power BI.
 
-**Tabela - Estoque** 
+**Tabela - Estoque**
 - ID Produto  
 - Data atualização  
 - Quantidade
 
-**Tabela - Pedidos** 
+**Tabela - Pedidos**
 - ID Pedido  
 - ID Produto  
 - Quantidade  
